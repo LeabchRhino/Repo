@@ -1,0 +1,46 @@
+Prod:
+	QP0079
+QA:
+	QQ0041
+	QQ0056
+	QQ0027
+Test:
+	QT0098
+	QT0097
+	QT0099
+	QT0100
+	QT0112
+	QT0037
+	QT0111
+Dev:
+	QD0109
+	QD0107
+	QD0120
+	QD0116
+	QD0037 - phase 2
+	QD0097 - phase 2
+	QD0098 - phase 2
+	QD0099 - phase 2
+	QD0100 - phase 2
+
+This week:
+1 QMGR (3 apps) migrated in productions
+3 QA HA QMGRs created and migrated to phase 1, applications starting to test
+1 QA HA-QMGRs - applications almost done testing
+8 Test QMGRs created and migrated to phase 1, applications starting to test
+4 Dev QMGRs creatae and migrated to phase 1, applications startig to test
+5 Dev QMGRs migrated to phase 2(BF QMGR are no longer used only GF)
+New process created and approved for MQ access (what needs to be created by the individual, and what will be created by the PM)
+Access Requests created and documented for Oliver(IBM) and Jerry (BNYM)
+Jira Kanban PoC board reviewed and approved
+
+Next Week:
+Build out Greenfield QMGRs in all environments (except prod - freeze in place for DR test on Feb 7/8)
+Troubleshoot Greenfield QMGRS in all environments
+Train Jerry (and Oliver if his access is implemented) on the process to add QMGR to MQ Inventory 
+Train Jerry (and Oliver if his access is implemneted) on the processs to create and execute migration plan
+Train Oliver (and Jerry if his access is implemented) on the processs to create QMGR in docker on app engine
+Work with Paul Clayton on the Jira Kanban board
+
+
+
